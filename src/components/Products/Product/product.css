@@ -1,0 +1,11 @@
+#product-card {
+  padding: 1px;
+  border: 1px solid #a5a3a3;
+}
+
+#product-card-image {
+  width: 14rem;
+  height: 13.5rem;
+  margin-left: 32px;
+}
+/*# sourceMappingURL=product.css.map */
